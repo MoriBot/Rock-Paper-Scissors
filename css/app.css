@@ -1,4 +1,10 @@
 body {
-    text-align:center;
-    padding:100px 50px;
+	background-image: url("../images/rock-paper-scissors-items.png");
+	padding: 200px 200px;
+	margin: 100px;
+}
+body {
+	text-align:center;
+    padding:10px 50px;
+    color: #b399d4;
 }
